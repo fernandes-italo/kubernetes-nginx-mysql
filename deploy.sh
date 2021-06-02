@@ -1,3 +1,9 @@
+# antes de iniciar criar chave de acesso ao Azure
+# az ad sp create-for-rbac --skip-assignment
+
+# colocar os valores das variaveis appId, password quando solicitado
+# colocar project_name = atividade-kubernetes quando solicitado
+
 cd terraform
 
 # iniciar terraform
